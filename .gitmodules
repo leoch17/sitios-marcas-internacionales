@@ -1,0 +1,9 @@
+[submodule "gulf"]
+	path = gulf
+	url = https://github.com/leoch17/gulf.git
+[submodule "dunlop"]
+	path = dunlop
+	url = https://github.com/leoch17/dunlop.git
+[submodule "yokohama-landing-nextjs"]
+	path = yokohama-landing-nextjs
+	url = https://github.com/leoch17/yokohama-landing-nextjs.git
