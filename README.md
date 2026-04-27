@@ -9,7 +9,7 @@ Haz clic en los enlaces a continuación para ir directamente al repositorio espe
 - [**Dunlop**](https://github.com/leoch17/dunlop/tree/10b9642ad903fbbf380b945cffc3a553fc4fc79e) - Proyecto de migración a Next.js y optimización de componentes.
 - [**Yokohama**](https://github.com/leoch17/yokohama-landing-nextjs/tree/51e53690e9503d56c9a84f818fed3a13b8f5ebe8) - Landing page profesional con diseño moderno y responsivo.
 - [**Gulf**](https://github.com/leoch17/gulf/tree/c1a7b0c8d806376313ba168bcbe13fb2f4823091) - Desarrollo web y presencia digital para la marca Gulf.
-- [**Prinx**](./prinx) - Desarrollo de sitio web para la marca de neumáticos Prinx.
+- [**Prinx**](https://github.com/leoch17/prinx/tree/1b0cb7ed4f0a32815e1b654d676c4d3df39454a6) - Desarrollo de sitio web para la marca de neumáticos Prinx.
 
 ---
 
