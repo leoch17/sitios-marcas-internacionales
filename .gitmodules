@@ -10,3 +10,6 @@
 [submodule "gulf"]
 	path = gulf
 	url = https://github.com/leoch17/gulf.git
+[submodule "hankook"]
+	path = hankook
+	url = https://github.com/leoch17/hankook.git
