@@ -4,3 +4,6 @@
 [submodule "yokohama-landing-nextjs"]
 	path = yokohama-landing-nextjs
 	url = https://github.com/leoch17/yokohama-landing-nextjs.git
+[submodule "prinx"]
+	path = prinx
+	url = https://github.com/leoch17/prinx.git
