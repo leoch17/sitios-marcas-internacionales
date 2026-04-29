@@ -1,6 +1,3 @@
-[submodule "gulf"]
-	path = gulf
-	url = https://github.com/leoch17/gulf.git
 [submodule "dunlop"]
 	path = dunlop
 	url = https://github.com/leoch17/dunlop.git
