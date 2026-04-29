@@ -7,3 +7,6 @@
 [submodule "prinx"]
 	path = prinx
 	url = https://github.com/leoch17/prinx.git
+[submodule "gulf"]
+	path = gulf
+	url = https://github.com/leoch17/gulf.git
